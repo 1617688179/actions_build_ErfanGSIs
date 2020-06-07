@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: download.h2os.com/OnePlus7T/OBT/OnePlus7THydrogen_13.X.05_OTA_005_all_2005160309_73c7abb815654941.zip
+  ROM_NAME: h2os
   TZ: Asia/Shanghai
 
 jobs:

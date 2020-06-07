@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.04_OTA_004_all_2005122222_27df6e02a0c24e29.zip
-  ROM_NAME: oxygenos
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:

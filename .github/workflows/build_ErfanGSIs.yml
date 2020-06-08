@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://27.155.125.6/bigota.d.miui.com/V11.0.6.0.QFXCNXM/miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.ziphttp://27.155.125.6/bigota.d.miui.com/V11.0.6.0.QFXCNXM/miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.09_OTA_009_all_1912060105_34e9053369f9448e.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
